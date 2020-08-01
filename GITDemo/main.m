@@ -13,7 +13,8 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSLog(@"Hello, World!");
         NSLog(@"提交一次记录");
-         NSLog(@"出现bug的提交");
+        NSLog(@"出现bug的提交");
+        NSLog(@"正在迭代的新版本");
     }
     return 0;
 }
