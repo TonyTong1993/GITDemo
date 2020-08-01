@@ -19,6 +19,7 @@ int main(int argc, const char * argv[]) {
         NSLog(@"开始版本1.0.0的迭代");
         NSLog(@"这是一个bug");
         NSLog(@"完成版本1.0.0的迭代");
+        NSLog(@"开始版本1.0.2的迭代");
     }
     return 0;
 }
