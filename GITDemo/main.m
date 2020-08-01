@@ -25,6 +25,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"1.0.2的迭代---3");
         NSLog(@"错误提交---1");
         NSLog(@"1.0.2的迭代---4");
+        NSLog(@"1.0.2的迭代---5");
+        NSLog(@"1.0.2的迭代---6");
     }
     return 0;
 }
