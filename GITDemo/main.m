@@ -20,6 +20,9 @@ int main(int argc, const char * argv[]) {
         NSLog(@"修复bug");
         NSLog(@"完成版本1.0.0的迭代");
         NSLog(@"开始版本1.0.2的迭代");
+        NSLog(@"1.0.2的迭代---1");
+        NSLog(@"1.0.2的迭代---2");
+        NSLog(@"1.0.2的迭代---3");
     }
     return 0;
 }
