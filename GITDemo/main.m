@@ -15,6 +15,7 @@ int main(int argc, const char * argv[]) {
         NSLog(@"提交一次记录");
         NSLog(@"出现bug的提交");
         NSLog(@"正在迭代的新版本");
+        NSLog(@"版本1.0.0上线了！");
     }
     return 0;
 }
